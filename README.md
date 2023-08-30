@@ -15,3 +15,14 @@ Os primeiros registros desta nova tecnologia datam da década de 90 e começo do
 Não, atualmente no mercado tambem temos uma grande gama de assistentes pessoais humanos. Profissionais autônomos que prestam os mais variados serviços, sempre virtual, como o próprio nome diz. Atuando de forma remota e freelancer resolvendo questões administrativas, burocráticas e de atendimento. 
 
 
+## ⚙️ Roteiro para a nossa IA: 
+
+- 📍 Como surgiram as assistes virtuais?
+  O termo "assistente virtual" surgiu com marcas usando IA para interagir com consumidores, levando a chatbots e depois a assistentes pessoais com reconhecimento de voz para relações mais humanizadas.
+
+- 📍 Todo assiste virtual é um robo?
+  Não, atualmente no mercado tambem temos uma grande gama de assistentes pessoais humanos. Profissionais autônomos que prestam os mais variados serviços. Atuando de forma remota e freelancer resolvendo questões administrativas, burocráticas e de atendimento.
+
+- 📍 Quais foram as primeiras assistentes virtuais por voz?  
+Registros iniciais em anos 90 e 2000: Google Voice Search e Macintosh pela Apple.
+
