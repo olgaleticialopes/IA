@@ -17,12 +17,12 @@ Não, atualmente no mercado tambem temos uma grande gama de assistentes pessoais
 
 ## ⚙️ Roteiro para a nossa IA: 
 
-- 📍 Como surgiram as assistes virtuais?
+*  📍 Como surgiram as assistes virtuais? <br>
   O termo "assistente virtual" surgiu com marcas usando IA para interagir com consumidores, levando a chatbots e depois a assistentes pessoais com reconhecimento de voz para relações mais humanizadas.
 
-- 📍 Todo assiste virtual é um robo?
+*  📍 Todo assiste virtual é um robo? <br>
   Não, atualmente no mercado tambem temos uma grande gama de assistentes pessoais humanos. Profissionais autônomos que prestam os mais variados serviços. Atuando de forma remota e freelancer resolvendo questões administrativas, burocráticas e de atendimento.
 
-- 📍 Quais foram as primeiras assistentes virtuais por voz?  
+*  📍 Quais foram as primeiras assistentes virtuais por voz? <br>
 Registros iniciais em anos 90 e 2000: Google Voice Search e Macintosh pela Apple.
 
